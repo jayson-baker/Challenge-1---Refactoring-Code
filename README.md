@@ -2,7 +2,7 @@
 
 ## Description
 
-Goal of this project was to increase accessibility and consolidate the given code without changing the look or function of the resulting webpage. Learned to use classes and ids to better organize the code base along with the overall importance of accessibility. Also, I learned refactoring the code into organized and readable chunks makes it much easier to work on from the developer side.  
+The goal of this project was to increase accessibility and consolidate the given code without changing the look or function of the resulting webpage. Learned to use classes and ids to better organize the code base along with the overall importance of accessibility. Also, I learned refactoring the code into organized and readable chunks makes it much easier to work on from the developer side.  
 
 ## Screenshots
 
@@ -13,3 +13,7 @@ Goal of this project was to increase accessibility and consolidate the given cod
 ## Link to Live Page
 
 https://jayson-baker.github.io/Challenge-1---Refactoring-Code
+
+## Credits
+
+Link to Xandromus' source code: https://github.com/coding-boot-camp/urban-octo-telegram
