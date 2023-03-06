@@ -6,8 +6,12 @@ Goal of this project was to increase accessibility and consolidate the given cod
 
 ## Screenshots
 
+```md
 ![Screenshot1](../urban-octo-telegram/assets/images/Screenshot%20Challenge%201.1.png)
+```
+```md
 ![Screenshot2](../urban-octo-telegram/assets/images/Screenshot%20Challenge%201.2.png) 
+```
 
 ## Link to Live Page
 
